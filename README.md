@@ -244,7 +244,7 @@ Tracks:
 
 # Author
 
-### Manav Singh
+### Devyani Deore 
 
 Skills:
 - SQL
@@ -252,7 +252,6 @@ Skills:
 - Power BI
 - Data Analytics
 - Business Intelligence
-- ETL
 - Dashboard Development
 
 
@@ -269,4 +268,3 @@ This project demonstrates a complete end-to-end analytics workflow involving:
 - churn analytics,
 - and executive dashboarding.
 
-The solution provides actionable insights that can help organizations improve customer retention, reduce revenue leakage, and drive long-term business growth.
